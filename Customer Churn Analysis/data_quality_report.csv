@@ -1,0 +1,2 @@
+quality_score,total_issues_identified,component_scores,data_quality_rating
+86.23,3,"{'completeness': 99.59, 'type_consistency': 91.67, 'outlier_quality': 50.0, 'categorical_consistency': 88.89}",Very Good
