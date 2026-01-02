@@ -109,7 +109,5 @@ Customers were segmented based on **value** and **churn risk** to support strate
 This project demonstrates a complete analytics lifecycle—from raw data quality assessment to actionable customer segmentation.  
 The insights enable telecom companies to proactively reduce churn, increase customer lifetime value, and design effective retention strategies.
 
----
 
-## 📁 Project Structure
 
